@@ -1,0 +1,24 @@
+Frontend:
+1. npx create-react-app .
+2. npm start (To run frontend),
+   node index.js (To run backend)
+3. Create dirs for components, pages and context in src
+
+Backend:
+MongoDB for Db, multer for images, JWT for authentication
+1. npm init
+2. install dependencies, expressetc
+3. node index.js (To run backend)
+
+Admin:
+1. npm create vite@latest .
+2. npm i
+3. npm run dev (To run admin)
+
+DB data:
+mongodb+srv://aasikasivaguru:PXcg6Bl55sTaS1j0@cluster0.9jksyn4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Thunderclient- VS code extension for api testing
+
+Pushing in git:
+1. To initialize empty git repo: git init in main folder
